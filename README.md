@@ -1,2 +1,5 @@
-# ADS-2022-1
 Repositório para a resolução de algoritmos da disciplina de Lógica de Programação.
+
+Neste repositório foI feita a resolução dos exercícios 06 e 24, propostos no livro
+Fundamentos da Programação de Computadores (3ª Edição), das autoras: Ana Fernanda Gomes Ascencio 
+e Edilene Aparecida Veneruchi de Campos.
